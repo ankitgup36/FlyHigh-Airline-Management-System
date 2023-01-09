@@ -7,7 +7,7 @@ An admin can book tickets with ease as it has auto customer data, and flight dat
 
 Tech Stacks - Netbeans, MySQL, Java Swing GUI, GitHub
 
-Overview 
+Overview------
 Authentication Page -> Main Window -> 
 [Passengers 
 Flights 
