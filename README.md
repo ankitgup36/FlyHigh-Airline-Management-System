@@ -9,10 +9,10 @@ Tech Stacks - Netbeans, MySQL, Java Swing GUI, GitHub
 
 Overview 
 Authentication Page -> Main Window -> 
-Passengers 
+[Passengers 
 Flights 
 Tickets
-Logout
+Logout]
 Admin ->
 Create user
 Modify User
