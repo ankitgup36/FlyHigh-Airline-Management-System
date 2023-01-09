@@ -6,3 +6,13 @@ This application generates real-time reports.
 An admin can book tickets with ease as it has auto customer data, and flight data filling funtionality.
 
 Tech Stacks - Netbeans, MySQL, Java Swing GUI, GitHub
+
+Overview 
+Authentication Page -> Main Window -> 
+Passengers 
+Flights 
+Tickets
+Logout
+Admin ->
+Create user
+Modify User
